@@ -47,7 +47,7 @@ int main(int argc, char *argv[]) {
             printf("\n");
         }
     }
-    //*/
+    // */
 
     // Create a socket
     int sock = socket(AF_INET, SOCK_DGRAM, 0);
